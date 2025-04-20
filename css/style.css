@@ -117,7 +117,7 @@ html{
 #tommy{
     background-color: orangered;
     color: #fff;
-    padding: 100px;
+    padding: 100px 0;
 }
 #tommy h4, #tom h4{
     font-size: 2.8rem;
@@ -365,7 +365,7 @@ html{
         font-size: 2rem;
     }
     #camell{
-        padding: 81px;
+        padding: 81px 30px;
     }
     #camell h1{
         font-size: 5rem;
@@ -373,9 +373,9 @@ html{
     #vivo .panel-body, #asus .panel-body{
         padding: 50px 10px;
     }
-    #colorr{
+    /* #colorr{
         top: -470px;
-    }
+    } */
 }
 
 
@@ -399,7 +399,7 @@ html{
         margin-left: 65px;
     }
     #custoo p{
-        margin-left: 100px;
+        margin-left: 80px;
     }
     #backy{
         margin-top: 90px;
@@ -414,9 +414,40 @@ html{
         padding: 10px 0;
     }
     #maddy{
-        left: 0px;
+        left: 50px;
     }
     #camel h1{
         font-size: 5rem;
+    }
+    #qwerty span, #qwerty h5, #qwerty p, #qwertyy span{
+        padding-left: 0px;
+    }
+    #qwerty h1{
+        padding: 50px 0 0 0;
+    }
+    #camel{
+        padding: 30px 20px;
+        margin: 70px 0;
+    }
+    #idol, #monty, #madd{
+        text-align: center;
+    }
+    #custo, #madd i{
+        margin-left: 0px;
+    }
+    #custo h1, #custoo h1{
+        font-size: 3rem;
+    }
+    #tommy, #tom{
+        padding: 100px 30px;
+    }
+    .ico{
+        left: 33%;
+    }
+    #hp{
+        padding: 25px 0;
+    }
+    #custo{
+        padding-bottom: 110px;
     }
 }
