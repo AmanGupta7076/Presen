@@ -1,0 +1,422 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 20px;
+}
+#qwerty{
+    background-color: #000;
+    color: #fff;
+    padding-top: 60px;
+    height: 100vh;
+}
+
+
+#qwerty h1, #qwertyy h1, #camel h1, #camell h1{
+    font-size: 10rem;
+    padding: 50px 0 0  50px;
+    background-image: url("https://i.etsystatic.com/9170477/r/il/86d30b/3632967475/il_570xN.3632967475_qjw6.jpg");
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:  transparent !important;
+    animation: animate 10s linear infinite;
+}
+
+@keyframes animate {
+    to {
+        background-position: -300px 0;
+    }
+    
+}
+#qwerty h5, #qwerty p, #qwertyy span{
+    font-size: 4rem;
+    padding-left: 50px;
+}
+#qwerty span{
+    font-size: 3rem;
+    padding-left: 60px;
+}
+#qwerty p , #qwerty span, #jerry p, #qwertyy span{
+    color: orangered;
+}
+/* #qwerty span{
+    color: #fff;
+} */
+#maddy{
+    background-color: orangered;
+    color: #fff;
+    padding: 50px;
+}
+#token{
+    position: relative;
+}
+#maddy{
+    position: absolute;
+    top: 400px;
+    right: 300px;
+}
+/* second */
+
+#camel{
+    padding: 100px 30px ;
+    background: #1c2220;
+    color: #fff;
+    margin: 30px 0;
+}
+#camel h1, #camell h1{
+    font-size: 9rem;
+}
+#camel p, #camell p{
+    line-height: 2;
+}
+#mad, #madd{
+    margin: 30px 0;
+    padding: 150px 30px ;
+    /* background: #1c2220; */
+    /* color: #fff; */
+}
+#idol, #monty{
+    margin: 40px 0;
+}
+#idol i{
+    background-color: orangered;
+    font-size: 3rem;
+    padding: 30px;
+    color:#fff ;
+}
+#monty p{
+    margin: 20px 0;
+}
+
+/* third */
+
+#custo{
+    padding-bottom: 180px;
+    width: 60%;
+    text-align: center;
+    margin-left: 280px;
+}
+#custo h1, #jerry h2, #oggy h2, #custoo h1{
+    font-size: 5rem;
+}
+.myto{
+    padding-left: 300px;
+}
+#custo p{
+    font-size: 1.5rem;
+}
+.redtxt, #jerry h6{
+    color: orangered;
+}
+#tom{
+    background-color: #1c2220;
+    color: #fff;
+    padding: 100px;
+}
+#tommy{
+    background-color: orangered;
+    color: #fff;
+    padding: 100px;
+}
+#tommy h4, #tom h4{
+    font-size: 2.8rem;
+}
+.romio 
+{
+    position: relative;
+}
+.ico
+{
+    position: absolute;
+    top: -90px;
+    left: 42%;
+    padding: 40px;
+    background-color: black;
+    color: white;
+    border: 10px solid white;
+    font-size: 3rem;
+}
+
+
+/* fourth */
+
+#jerry{
+    background-color: #1c2220;
+    color: #fff;
+    margin: 80px 0;
+    padding: 30px;
+}
+#oggy{
+    margin: 80px 0;
+    padding: 30px ;
+}
+#jerry p{
+    font-size: 3rem;
+}
+#jerry h6{
+    font-size: 5rem;
+}
+#dell, #hp{
+    padding: 70px 0;
+}
+#ornge{
+    background-color: orangered;
+    color: #fff;
+    padding: 20px;
+}
+#oggy h1{
+    font-size: 3rem;
+}
+#blk{
+    color: #000;
+    background-color: #f5f5f5f5;
+    padding: 20px;
+}
+.romioo
+{
+    position: relative;
+    margin: 30px 0;
+}
+.icoo
+{
+    position: absolute;
+    top: -60px;
+    left: 35%;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    border: 10px solid white;
+    font-size: 3rem;
+}
+#jerry h6{
+    position: relative;
+}
+#jerry h6::before{
+    position: absolute;
+    top: 0;
+    content: "";
+    width: 2px;
+    height: 100%;
+    background-color: #fff;
+    left: 80px;
+}
+
+/* fifth */
+
+#custoo{
+    padding: 80px 0;
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+}
+#custoo p, #custom p{
+    width: 60%;
+    text-align: center;
+    margin-left: 280px;
+}
+#bot{
+    margin: 100px 0;
+}
+#guest img{
+    background-color: #f5f5f5f5;
+}
+
+/* sixth */
+
+#camell{
+    background-color: orangered;
+    color: #fff;
+    padding: 100px;
+    margin: 60px 0;
+}
+#camell b{
+    font-size: 2.8rem;
+}
+#madd i{
+    padding: 20px;
+    color: #fff;
+    background-color: orangered;
+    font-size: 3rem;
+    margin-left: 50px;
+}
+#madd span{
+    color: orangered;
+}
+#back{
+    background-color: #000;
+    color: #fff;
+    margin-top: 100px;
+    padding: 30px;
+    position: relative;
+}
+#madd span, #madd h5{
+    font-size: 2.5rem;
+}
+#back i{
+    position: absolute;
+    top: -60px;
+}
+
+/* seventh */
+
+#asus h1, #vivo h1{
+    /* background-color: #000; */
+    color: #fff;
+    padding: 30px 50px;
+}
+#asus .panel-body, #vivo .panel-body{
+    background-color: #f5f5f5f5;
+    padding: 50px 100px;
+}
+#asus .panel-heading{
+    background-color: #000;
+}
+#asus span, #vivo span{
+    padding: 40pc 0;
+    font-size: 2rem;
+}
+#asus button, #vivo button{
+    background-color: #000;
+    color: #fff;
+    margin-top: 20px;
+}
+#vivo button{
+    background-color: orangered;
+}
+#vivo .panel-heading{
+    background-color: orangered;
+}
+#vivo{
+    transform: scale(1.2);
+    z-index: 2;
+}
+
+/* eighth */
+
+#custom{
+    margin: 100px 0;
+}
+.lg{
+    text-align: center;
+}
+
+/* nineth */
+
+#horse{
+    background-color: #000;
+    color: #fff;
+    height: 100vh;
+    padding-top: 200px;
+}
+#qwertyy{
+    padding-top: 60px;
+    height: 100vh;
+}
+#horse span{
+    color: orangered;
+    font-size: 2.5rem;
+    padding-top: 50px;
+}
+#colorr{
+    background-color: orangered;
+    color: #fff;
+    padding: 60px 20px;
+    top: -300px;
+    margin-left: 60px;
+}
+#ajanta span{
+    /* padding-top: 10px; */
+    font-size: 2.5rem; 
+}
+
+
+
+
+
+/* media queries */
+
+@media only screen and (max-width:1024px){
+
+    /* first */
+
+    #maddy{
+        top: 535px;
+    }
+    #qwerty h1, #camel h1, #qwertyy h1{
+        font-size: 7rem;
+    }
+
+    #custo {
+        width: 100%;
+        text-align: center;
+        margin-left: 35px;
+    }
+    #tom{
+        padding: 108px;
+    }
+    .myto {
+        padding-left: 212px;
+    }
+    #jerry h2, #oggy h2{
+        font-size: 3rem;
+    }
+    #oggy h1{
+        font-size: 2rem;
+    }
+    #camell{
+        padding: 81px;
+    }
+    #camell h1{
+        font-size: 5rem;
+    }
+    #vivo .panel-body, #asus .panel-body{
+        padding: 50px 10px;
+    }
+    #colorr{
+        top: -470px;
+    }
+}
+
+
+@media only screen and (max-width:768px){
+
+    #maddy{
+        left: 300px;
+        right: 0px;
+    }
+    #blk, #ornge{
+        margin-top: 100px;
+    }
+    #qwertyy{
+        height: 40vh;
+    }
+}
+
+@media only screen and (max-width:426px){
+
+    #custom p{
+        margin-left: 65px;
+    }
+    #custoo p{
+        margin-left: 100px;
+    }
+    #backy{
+        margin-top: 90px;
+    }
+    #madu{
+        margin-top: 50px;
+    }
+    .myto{
+        padding-left: 75px;
+    }
+    #dell{
+        padding: 10px 0;
+    }
+    #maddy{
+        left: 0px;
+    }
+    #camel h1{
+        font-size: 5rem;
+    }
+}
