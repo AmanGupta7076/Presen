@@ -358,7 +358,7 @@ html{
     .myto {
         padding-left: 212px;
     }
-    #jerry h2, #oggy h2{
+    #jerry h2{
         font-size: 3rem;
     }
     #oggy h1{
@@ -373,9 +373,7 @@ html{
     #vivo .panel-body, #asus .panel-body{
         padding: 50px 10px;
     }
-    /* #colorr{
-        top: -470px;
-    } */
+    
 }
 
 
@@ -433,9 +431,9 @@ html{
         text-align: center;
     }
     #custo, #madd i{
-        margin-left: 0px;
+        margin-left: -35px;
     }
-    #custo h1, #custoo h1{
+     #custoo h1{
         font-size: 3rem;
     }
     #tommy, #tom{
@@ -447,7 +445,22 @@ html{
     #hp{
         padding: 25px 0;
     }
-    #custo{
+    #custoy{
         padding-bottom: 110px;
     }
+    #qwerty{
+        margin-bottom: 110px;
+    }
+    #mad{
+        padding: 100px 30px;
+    }
+    #fbd{
+        margin: 100px 0;
+    }
+    #horse{
+        padding-top: 100px;
+    }
+     #colorr{
+        top: -450px;
+    } 
 }
