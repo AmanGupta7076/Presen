@@ -430,8 +430,14 @@ html{
     #idol, #monty, #madd{
         text-align: center;
     }
-    #custo, #madd i{
+    #madd i{
         margin-left: -35px;
+    }
+    #custo{
+        margin-left: 5px;
+    }
+    #custo h1{
+        font-size: 3rem;
     }
      #custoo h1{
         font-size: 3rem;
@@ -461,6 +467,6 @@ html{
         padding-top: 100px;
     }
      #colorr{
-        top: -450px;
+        top: -340px;
     } 
 }
