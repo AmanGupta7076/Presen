@@ -12,12 +12,14 @@ html{
     padding-top: 60px;
     height: 100vh;
 }
-
+/* #maddy img{
+    height: 100vh;
+} */
 
 #qwerty h1, #qwertyy h1, #camel h1, #camell h1{
     font-size: 10rem;
     padding: 50px 0 0  50px;
-    background-image: url("https://i.etsystatic.com/9170477/r/il/86d30b/3632967475/il_570xN.3632967475_qjw6.jpg");
+    background-image: url("https://media.istockphoto.com/id/968943368/photo/the-goal-was-to-grow-and-we-did-it.jpg?s=612x612&w=0&k=20&c=ovpGfZbP-SUxvFPngfuyrNXYu2LmHZ5QDCrQiBqbITw=");
     -webkit-background-clip: text;
     -webkit-text-fill-color:  transparent !important;
     animation: animate 10s linear infinite;
@@ -40,10 +42,14 @@ html{
 #qwerty p , #qwerty span, #jerry p, #qwertyy span{
     color: orangered;
 }
-/* #qwerty span{
-    color: #fff;
-} */
+
 #maddy{
+    background-image: url(../images/music.jpg);
+    background-color: red;
+    height: 100vh;
+    background-position: center;
+}
+.asd{
     background-color: orangered;
     color: #fff;
     padding: 50px;
@@ -51,10 +57,11 @@ html{
 #token{
     position: relative;
 }
-#maddy{
+.asd{
     position: absolute;
-    top: 400px;
-    right: 300px;
+    top: 380px;
+    right: 250px;
+    left: -200px;
 }
 /* second */
 
@@ -117,7 +124,7 @@ html{
 #tommy{
     background-color: orangered;
     color: #fff;
-    padding: 100px 0;
+    padding: 100px;
 }
 #tommy h4, #tom h4{
     font-size: 2.8rem;
@@ -340,8 +347,10 @@ html{
 
     /* first */
 
-    #maddy{
-        top: 535px;
+    .asd{
+        top: 485px;
+        right: 120px;
+        left: -200px;
     }
     #qwerty h1, #camel h1, #qwertyy h1{
         font-size: 7rem;
@@ -393,6 +402,11 @@ html{
 
 @media only screen and (max-width:426px){
 
+    .asd {
+        top: -240px;
+        right: 0px;
+        left: 0px;
+    }
     #custom p{
         margin-left: 65px;
     }
@@ -412,7 +426,7 @@ html{
         padding: 10px 0;
     }
     #maddy{
-        left: 50px;
+        left: 0px;
     }
     #camel h1{
         font-size: 5rem;
